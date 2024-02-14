@@ -1,0 +1,10 @@
+C:\Users\Monster\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Monster\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Monster\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Monster\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Monster\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Monster\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Monster\Desktop\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
